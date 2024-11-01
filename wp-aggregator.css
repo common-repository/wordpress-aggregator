@@ -1,0 +1,58 @@
+/*wp-planet content*/
+#content .aggregator_post{padding:0 10px 5px 10px;}
+
+.aggregator_post .meta{font-size:12px; font-weight:normal; color:#808080; border:0px solid #000;}
+
+/*wp-planet page*/
+.pages {
+    color:#999;
+    height:24px;
+    margin:15px 0;
+    overflow:hidden;
+}
+
+.pages em {
+    font-style:normal;
+    height:22px;
+    background:#f1f6fa;
+    border:1px solid #c6d4e5;
+}
+
+.pages a,.pages em {
+    float:left;
+    line-height:22px;
+    margin:0 2px;
+    padding:0 8px;
+    background:#f1f6fa;
+    border:1px solid #c6d4e5;
+    text-decoration:none;
+}
+
+.pages a:hover {
+    background:#fff1cc;
+    border:1px solid #c73a25;
+}
+
+.pages strong {
+    float:left;
+    color:#fff;
+    line-height:22px;
+    margin:0 2px;
+    padding:0 8px;
+    background:#d04b37;
+    border-top:1px solid #f59e80;
+    border-left:1px solid #f59e80;
+    border-right:1px solid #9e2412;
+    border-bottom:1px solid #9e2412;
+}
+.pages kbd {
+    margin:0 0 0 5px;
+}
+.pages kbd input {
+    font-family:Verdana, sans-serif, Arial;
+    font-size:13px;
+    border:1px #c1c8d2 solid;
+    padding:2px;
+    width:25px;
+    height:16px;
+}
